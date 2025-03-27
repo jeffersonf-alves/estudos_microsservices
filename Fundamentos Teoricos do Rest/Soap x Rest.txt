@@ -1,0 +1,32 @@
+O que é SOAP?
+
+SOAP é um protocolo baseado em XML usado para troca de informações estruturadas em serviços web. Ele define regras rígidas para a comunicação entre sistemas, garantindo segurança e confiabilidade. SOAP usa diversos protocolos de transporte, como HTTP, SMTP e TCP, e suporta recursos como transações, segurança avançada (WS-Security) e comunicação assíncrona.
+
+Principais características do SOAP:
+
+Baseado em XML (estrutura rígida e padronizada).
+
+Protocolo independente de linguagem e plataforma.
+
+Suporte a WS-Security para autenticação e criptografia.
+
+Usa WSDL (Web Services Description Language) para descrever os serviços.
+
+
+O que é REST?
+
+
+REST é um estilo arquitetural para comunicação entre sistemas, geralmente utilizando HTTP como protocolo de transporte. Diferente do SOAP, REST é mais leve e flexível, pois usa JSON ou XML para troca de dados, sem a necessidade de um formato rígido.
+
+Principais características do REST:
+
+Baseado em recursos (resources) acessíveis por URLs.
+
+Usa os verbos HTTP (GET, POST, PUT, DELETE) para operações CRUD.
+
+Mais simples e eficiente em comparação com SOAP.
+
+Amplamente utilizado em APIs modernas devido à sua leveza.
+
+
+
